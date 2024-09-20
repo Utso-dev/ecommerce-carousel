@@ -1,0 +1,49 @@
+ 
+ 
+ .arobgcolor{
+  background: #B68E48;
+ }
+ 
+ 
+ 
+ .navbanner{
+
+  background-image: url("../../public/images/Banner/banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+ 
+ }
+.footer{
+  background: #B68E48;
+  color: #fff;
+}
+a{
+   text-decoration: none;
+}
+
+.carousel-container {
+  padding: 20px 0;
+}
+
+.product-card {
+  text-align: center;
+  padding: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-card h5 {
+  margin-top: 10px;
+}
+
+.herobanenr{
+  background-image: url("../../public/images/Banner/herobanner.png");
+  height: 300px;
+  border-radius: 20px;
+}
